@@ -1,0 +1,11 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F84A -DL -O11111114 -fo4 -N"D:\Programación\C\Microprocesadores-2do-bimestre\Proyectos mikroC\KARR\KARR.mcppi" -SP"C:\Program Files\mikroC\Defs\" -SP"C:\Program Files\mikroC\Uses\P16\" -SP"D:\Programación\C\Microprocesadores-2do-bimestre\Proyectos mikroC\KARR\" -IP"C:\Program Files\mikroC\Uses\P16\" "KARR.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl"	 
+hint: 0	1139	Available RAM: 52 [bytes], Available ROM: 1024 [bytes]	 
+diagnostics: 0	122	Compilation Started	KARR.c
+diagnostics: 17	123	Compiled Successfully	KARR.c
+diagnostics: 0	127	All files Compiled in 1031 ms	 
+hint: 0	1144	Used RAM (bytes): 2 (4%)  Free RAM (bytes): 50 (96%)	Used RAM (bytes): 2 (4%)  Free RAM (bytes): 50 (96%)
+hint: 0	1144	Used ROM (program words): 87 (8%)  Free ROM (program words): 937 (92%)	Used ROM (program words): 87 (8%)  Free ROM (program words): 937 (92%)
+diagnostics: 0	125	Project Linked Successfully	KARR.mcppi
+diagnostics: 0	128	Linked in 32 ms	 
+diagnostics: 0	129	Project 'KARR.mcppi' completed: 1219 ms	 
+diagnostics: 0	103	Finished successfully: 18 mar. 2024, 16:13:43	KARR.mcppi
