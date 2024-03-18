@@ -1,0 +1,8 @@
+[PROJECTS]
+Count=4
+Project0=C:\Program Files\mikroC\Examples\Development Systems\EasyPIC v8\Led Blinking\LedBlinking.mcppi
+Project1=C:\Program Files\mikroC\Examples\ProyectoKit.mcppi
+Project2=..\ProyectoKit.mcppi
+Project3=Kit.mcppi
+[ActiveProject]
+Index=3
