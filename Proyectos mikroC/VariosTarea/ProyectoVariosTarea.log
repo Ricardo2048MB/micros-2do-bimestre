@@ -1,0 +1,11 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F84A -DL -O11111114 -fo4 -N"D:\Programación\C o Cpp\C\microprocesadores-2024-unitec\Proyectos mikroC\VariosTarea\ProyectoVariosTarea.mcppi" -SP"D:\Programas\mikroC PRO for PIC\Defs\" -SP"D:\Programas\mikroC PRO for PIC\Uses\P16\" -SP"D:\Programación\C o Cpp\C\microprocesadores-2024-unitec\Proyectos mikroC\VariosTarea\" -IP"D:\Programas\mikroC PRO for PIC\Uses\P16\" "ProyectoVariosTarea.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl"	 
+hint: 0	1139	Available RAM: 52 [bytes], Available ROM: 1024 [bytes]	 
+diagnostics: 0	122	Compilation Started	ProyectoVariosTarea.c
+diagnostics: 108	123	Compiled Successfully	ProyectoVariosTarea.c
+diagnostics: 0	127	All files Compiled in 62 ms	 
+hint: 0	1144	Used RAM (bytes): 2 (4%)  Free RAM (bytes): 50 (96%)	Used RAM (bytes): 2 (4%)  Free RAM (bytes): 50 (96%)
+hint: 0	1144	Used ROM (program words): 460 (45%)  Free ROM (program words): 564 (55%)	Used ROM (program words): 460 (45%)  Free ROM (program words): 564 (55%)
+diagnostics: 0	125	Project Linked Successfully	ProyectoVariosTarea.mcppi
+diagnostics: 0	128	Linked in 16 ms	 
+diagnostics: 0	129	Project 'ProyectoVariosTarea.mcppi' completed: 234 ms	 
+diagnostics: 0	103	Finished successfully: 21 mar. 2024, 00:00:01	ProyectoVariosTarea.mcppi
